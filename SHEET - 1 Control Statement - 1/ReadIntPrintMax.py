@@ -3,4 +3,4 @@ b = int(input("Enter second integer: "))
 c = int(input("Enter third integer: "))
 
 maximum = max(a, b, c)
-print(f"The maximum of the three numbers is {maximum}.")
+print("The maximum of the three numbers is", maximum)

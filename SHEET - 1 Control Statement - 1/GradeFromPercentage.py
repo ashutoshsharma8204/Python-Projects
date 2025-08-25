@@ -11,4 +11,4 @@ elif percentage < 85:
 else:
     grade = "A+"
 
-print(f"Your grade is {grade}.")
+print("Your grade is", grade)
